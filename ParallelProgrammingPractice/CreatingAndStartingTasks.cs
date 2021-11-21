@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParallelProgrammingPractice
 {
-    public static class TasksBasics
+    public static class CreatingAndStartingTasks
     {
         public static void CallingMethodsWithoutReturnTypeViaTasks()
         {

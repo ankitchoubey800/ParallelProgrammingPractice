@@ -8,8 +8,8 @@ namespace ParallelProgrammingPractice
         public static void Main()
         {
 
-            //TasksBasics.CallingMethodsWithoutReturnTypeViaTasks();
-            TasksBasics.CallingMethodsWithReturnTypeViaTasks();
+            //CreatingAndStartingTasks.CallingMethodsWithoutReturnTypeViaTasks();
+            CreatingAndStartingTasks.CallingMethodsWithReturnTypeViaTasks();
             //CallingMethodsWithReturnType();
             Console.WriteLine("Main Program Done"); //this line gets printed randomly in between.
                                                     //so, the tasks are running parallely
